@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #000000;
+  }
+  
+  nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #f841ca;
+  }
+  
+  .project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
